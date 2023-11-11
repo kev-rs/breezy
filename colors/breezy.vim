@@ -14,7 +14,7 @@ endif
 hi LineNr        guibg=#31363b guifg=#7a7c7d gui=NONE
 hi FoldColumn    guibg=#31363b guifg=#7a7c7d gui=NONE
 hi Folded        guibg=#31363b guifg=#7a7c7d gui=NONE
-hi MatchParen    guibg=#8e44ad guifg=#cfcfc2 gui=NONE
+hi MatchParen    guibg=#cfcfc2 guifg=#cfcfc2 gui=NONE
 hi signColumn    guibg=#31363b guifg=#7a7c7d gui=NONE
 
 hi Comment        guibg=NONE    guifg=#7a7c7d gui=NONE
