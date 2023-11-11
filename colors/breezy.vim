@@ -23,13 +23,13 @@ hi Constant       guibg=NONE    guifg=#f67400 gui=NONE
 hi Boolean        guibg=NONE    guifg=#27aeae gui=NONE
 hi Debug          guibg=NONE    guifg=#a5a6a8 gui=bold
 hi Error          guibg=#4d1f24 guifg=#95da4c gui=bold
-hi Identifier     guibg=NONE    guifg=#8e44ad gui=NONE
+hi Identifier     guibg=NONE    guifg=#cfcfc2 gui=NONE
 hi Ignore         guibg=NONE    guifg=NONE    gui=NONE
 hi Operator       guibg=NONE    guifg=NONE    gui=bold
 hi PreProc        guibg=NONE    guifg=#27ae60 gui=NONE
 hi Special        guibg=NONE    guifg=#3daee9 gui=NONE
 hi SpecialComment guibg=NONE    guifg=#a5a6a8 gui=NONE
-hi Statement      guibg=NONE    guifg=#cfcfc2 gui=bold
+hi Statement      guibg=NONE    guifg=#fdbc4b gui=bold
 hi Fn             guibg=NONE    guifg=#cfcfc2 gui=bold
 hi String         guibg=NONE    guifg=#f44f4f gui=NONE
 hi Todo           guibg=#451e1a guifg=#ca9219 gui=NONE
