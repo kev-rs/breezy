@@ -29,7 +29,6 @@ hi Operator       guibg=NONE    guifg=NONE    gui=bold
 hi PreProc        guibg=NONE    guifg=#27ae60 gui=NONE
 hi Special        guibg=NONE    guifg=#3daee9 gui=NONE
 hi SpecialComment guibg=NONE    guifg=#a5a6a8 gui=NONE
-!hi Statement      guibg=NONE    guifg=#fdbc4b gui=bold
 hi Statement      guibg=NONE    guifg=#cfcfc2 gui=bold
 hi Fn             guibg=NONE    guifg=#cfcfc2 gui=bold
 hi String         guibg=NONE    guifg=#f44f4f gui=NONE
