@@ -18,14 +18,14 @@ hi MatchParen    guibg=#cfcfc2 guifg=#cfcfc2 gui=NONE
 hi signColumn    guibg=#31363b guifg=#7a7c7d gui=NONE
 
 hi Comment        guibg=NONE    guifg=#7a7c7d gui=NONE
-hi Conceal        guibg=NONE    guifg=#3f8058 gui=NONE
+hi Conceal        guibg=NONE    guifg=#cfcfc2 gui=NONE
 hi Constant       guibg=NONE    guifg=#f67400 gui=NONE
 hi Boolean        guibg=NONE    guifg=#27aeae gui=NONE
 hi Debug          guibg=NONE    guifg=#a5a6a8 gui=bold
 hi Error          guibg=#4d1f24 guifg=#95da4c gui=bold
 hi Identifier     guibg=NONE    guifg=#3f8058 gui=NONE
 hi Ignore         guibg=NONE    guifg=NONE    gui=NONE
-hi Operator       guibg=None    guifg=#3f8058 gui=bold
+hi Operator       guibg=#3f8058 guifg=#3f8058 gui=bold
 hi PreProc        guibg=NONE    guifg=#27ae60 gui=NONE
 hi Special        guibg=NONE    guifg=#3daee9 gui=NONE
 hi SpecialComment guibg=NONE    guifg=#a5a6a8 gui=NONE
