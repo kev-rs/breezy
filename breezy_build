@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+git add .
+git commit -m "[+] color changed!"
+git push -u origin master
