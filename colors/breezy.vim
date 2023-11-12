@@ -17,6 +17,9 @@ hi Folded        guibg=#31363b guifg=#7a7c7d gui=NONE
 hi MatchParen    guibg=#cfcfc2 guifg=#cfcfc2 gui=NONE
 hi signColumn    guibg=#31363b guifg=#7a7c7d gui=NONE
 
+hi MatchParen cterm=none ctermbg=green ctermfg=blue
+
+
 hi Comment        guibg=NONE    guifg=#7a7c7d gui=NONE
 hi Conceal        guibg=NONE    guifg=#cfcfc2 gui=NONE
 hi Constant       guibg=NONE    guifg=#f67400 gui=NONE
