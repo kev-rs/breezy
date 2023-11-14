@@ -86,7 +86,7 @@ hi IncSearch     guibg=#808021 guifg=#cfcfc2 gui=NONE
 hi Search        guibg=#218058 guifg=#cfcfc2 gui=NONE
 
 hi Directory     guibg=NONE    guifg=#ffffff gui=NONE
-hi PreProc2      guibg=NONE    guifg=#da4453 gui=NONE
+hi PreProc2      guibg=NONE    guifg=#f67400 gui=NONE
 
 hi SpellBad      guibg=NONE    guifg=NONE    gui=undercurl
 hi SpellCap      guibg=NONE    guifg=NONE    gui=undercurl
