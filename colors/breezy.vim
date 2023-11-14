@@ -29,7 +29,7 @@ hi Error          guibg=#4d1f24 guifg=#95da4c gui=bold
 hi Identifier     guibg=NONE    guifg=#cfcfc2 gui=NONE
 hi Ignore         guibg=NONE    guifg=NONE    gui=NONE
 hi Operator       guibg=None    guifg=#3f8058 gui=bold
-hi PreProc        guibg=NONE    guifg=#27ae60 gui=NONE
+hi PreProc        guibg=NONE    guifg=#da4453 gui=NONE
 hi Special        guibg=NONE    guifg=#3daee9 gui=NONE
 hi SpecialComment guibg=NONE    guifg=#a5a6a8 gui=NONE
 hi Statement      guibg=NONE    guifg=#fdbc4b gui=bold
